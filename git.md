@@ -11,4 +11,4 @@
 * `git diff` 差分を確認
 * `git add <file name>` ファイルをCommitの対象にする
 * `git commit -m '<message>'` メッセージをつけてCommit
- 
+* `git push origin master` 
